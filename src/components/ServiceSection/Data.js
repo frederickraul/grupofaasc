@@ -1,0 +1,67 @@
+export const sectionObjOne = {
+    id: 'services',
+    type: 1,
+    lightBg: false,
+    lightText: true,
+    lighTextDesc: true,
+    title1: 'Albañilería',
+    p1: '',
+    title2: 'Tabla Roca',
+    p2: '',
+    title3: 'Plomería',
+    p3: '',
+    Icon1: require('../../img/services/alb.jpeg').default,
+    Icon11: require('../../img/services/alb2.jpeg').default,
+    Icon2: require('../../img/services/tab.jpeg').default,
+    Icon22: require('../../img/services/tab2.jpeg').default,
+    Icon3: require('../../img/services/plo.jpeg').default,
+    alt: 'Icon',
+    dark: false,
+    primary: true,
+    darkText: false
+};
+export const sectionObjTwo = {
+    id: 'services2',
+    type: 2,
+    lightBg: false,
+    lightText: true,
+    lighTextDesc: true,
+    title1: 'Herrería',
+    p1: '',
+    title2: 'Área de construcción',
+    p2: '',
+    title3: 'Impermeabilización',
+    p3: '',
+  
+    Icon1: require('../../img/services/her.jpeg').default,
+    Icon2: require('../../images/svg-6.svg').default,
+    Icon3: require('../../img/services/imp.jpeg').default,
+    Icon33: require('../../img/services/impB.jpeg').default,
+    alt: 'Icon',
+    dark: false,
+    primary: true,
+    darkText: false
+};
+export const sectionObjThree = {
+    id: 'services3',
+    type: 1,
+    lightBg: false,
+    lightText: true,
+    lighTextDesc: true,
+    title1: 'Pintura',
+    p1: '',
+    title2: 'Piso laminado',
+    p2: '',
+    title3: 'Loseta',
+    p3: '',
+    Icon1: require('../../img/services/pin.jpeg').default,
+    Icon2: require('../../img/services/lam.jpeg').default,
+    Icon3: require('../../img/services/loz.jpeg').default,
+    Icon33: require('../../img/services/loz2.jpeg').default,
+    alt: 'Icon',
+    dark: false,
+    primary: true,
+    darkText: false
+};
+
+
